@@ -46,13 +46,13 @@ function Hero() {
           </a>
 
           <a
-            href="/Ramesh_Resume.pdf"
-            target="_blank"
-            rel="noreferrer"
-            className="outline-btn"
-          >
-            Resume ↓
-          </a>
+  href={`${import.meta.env.BASE_URL}Ramesh_Resume.pdf`}
+  target="_blank"
+  rel="noopener noreferrer"
+  className="outline-btn"
+>
+  View Resume ↗
+</a>
 
         </div>
 
@@ -80,19 +80,15 @@ function Hero() {
 
       <div className="photo-area">
 
-        
-
         <div className="photo-ring">
-
           <img
-            src="/images/Ramesh_profile.png"
+            src={`${import.meta.env.BASE_URL}images/Ramesh_profile.png`}
             alt="Ramesh Reddy Eedulakanti"
           />
-
         </div>
 
         <div className="photo-label bottom">
-          FULL STACK DEVELOPER 
+          FULL STACK DEVELOPER
         </div>
 
       </div>
