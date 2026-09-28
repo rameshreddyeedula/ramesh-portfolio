@@ -1,16 +1,20 @@
 # Ramesh Reddy — Full Stack Developer
 
-Personal portfolio website showcasing my experience, projects, technical skills, education, and certifications.
+A personal portfolio website showcasing my **experience, projects, technical skills, education, and certifications**.
 
 ## 🌐 Live Portfolio
 
-https://rameshreddyeedula.github.io/ramesh-portfolio/
+**[View My Portfolio](https://rameshreddyeedula.github.io/ramesh-portfolio/)**
+
+---
 
 ## 👨‍💻 About Me
 
-I am Ramesh Reddy, a 2026 B.Tech graduate in Electronics and Communication Engineering, focused on Full Stack Development.
+I am Ramesh Reddy, a **2026 B.Tech graduate in Electronics and Communication Engineering**, focused on Full Stack Development.
 
-I enjoy building practical software applications using React.js, JavaScript, Python, FastAPI, SQL, and related technologies.
+I enjoy building practical software applications using **React.js, JavaScript, Python, FastAPI, SQL, and related technologies.**
+
+---
 
 ## 💼 Experience
 
@@ -26,13 +30,15 @@ Gained practical experience in Python development, application development, and 
 
 Gained practical exposure to VLSI concepts, digital design, and hardware-oriented development.
 
+---
+
 ## 🚀 Projects
 
 ### IntelliDesk AI
 
-A full-stack task management application with an AI assistant that helps users manage tasks and provides AI-powered task insights.
+A full-stack AI productivity platform with an AI assistant for task management and intelligent task analysis.
 
-**Technologies:** React.js, JavaScript, Python, FastAPI, SQLite, Ollama, Gemma
+**Technologies:** React.js, JavaScript, Python, FastAPI, SQL, Ollama, Gemma
 
 - Task creation and management
 - AI-powered task analysis
@@ -40,17 +46,19 @@ A full-stack task management application with an AI assistant that helps users m
 - REST API integration
 - Dashboard-based interface
 
-GitHub:  
+**GitHub:**  
 https://github.com/rameshreddyeedula/IntelliDesk-AI
 
 ### Computer Vision-Based Defect Detection
 
-Final-year project developed using Python and OpenCV to detect and classify defects from images. The system uses image-processing techniques with Arduino-based alerts for automated monitoring and response.
+Final-year project developed using Python and OpenCV to detect and classify defects from images.
 
 **Technologies:** Python, OpenCV, Computer Vision, Arduino, IoT
 
-Project:  
+**Project:**  
 https://www.linkedin.com/posts/ramesh-reddy-eedulakanti-090259294_computervision-opencv-python-activity-7452878567413071872-dI0j
+
+---
 
 ## 🛠️ Skills
 
@@ -68,12 +76,17 @@ https://www.linkedin.com/posts/ramesh-reddy-eedulakanti-090259294_computervision
 - Arduino
 - IoT
 
+---
+
 ## 🎓 Education
 
 ### B.Tech — Electronics & Communication Engineering
 
-AVN Institute of Engineering and Technology, Hyderabad  
-2026
+**AVN Institute of Engineering and Technology, Hyderabad**
+
+**2026**
+
+---
 
 ## 📜 Certifications
 
@@ -83,13 +96,15 @@ AVN Institute of Engineering and Technology, Hyderabad
 - Python Development Internship — Infotact Solutions
 - VLSI Internship — CODTECH IT Solutions
 
+---
+
 ## 🔗 Connect
 
-LinkedIn:  
+**LinkedIn:**  
 https://linkedin.com/in/ramesh-reddy-eedulakanti-090259294
 
-LeetCode:  
+**LeetCode:**  
 https://leetcode.com/u/eedulakantiramesh/
 
-Portfolio:  
+**Portfolio:**  
 https://rameshreddyeedula.github.io/ramesh-portfolio/
