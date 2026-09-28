@@ -19,7 +19,7 @@ function Certificates() {
       <div className="certificate-grid">
 
         <a
-          href="/certificates/data-analytics.jpeg"
+          href={`${import.meta.env.BASE_URL}certificates/data-analytics.jpeg`}
           target="_blank"
           rel="noreferrer"
           className="certificate-card"
@@ -34,7 +34,7 @@ function Certificates() {
         </a>
 
         <a
-          href="/certificates/cloud-computing.jpeg"
+          href={`${import.meta.env.BASE_URL}certificates/cloud-computing.jpeg`}
           target="_blank"
           rel="noreferrer"
           className="certificate-card"
@@ -49,7 +49,7 @@ function Certificates() {
         </a>
 
         <a
-          href="/certificates/machine-learning.jpeg"
+          href={`${import.meta.env.BASE_URL}certificates/machine-learning.jpeg`}
           target="_blank"
           rel="noreferrer"
           className="certificate-card"
@@ -64,7 +64,7 @@ function Certificates() {
         </a>
 
         <a
-          href="/certificates/python-internship.jpeg"
+          href={`${import.meta.env.BASE_URL}certificates/python-internship.jpeg`}
           target="_blank"
           rel="noreferrer"
           className="certificate-card"
@@ -79,7 +79,7 @@ function Certificates() {
         </a>
 
         <a
-          href="/certificates/vlsi-internship.jpeg"
+          href={`${import.meta.env.BASE_URL}certificates/vlsi-internship.jpeg`}
           target="_blank"
           rel="noreferrer"
           className="certificate-card"
