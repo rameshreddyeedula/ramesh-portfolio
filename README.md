@@ -18,21 +18,7 @@ I enjoy building practical software applications using React.js, JavaScript, Pyt
 
 **Duration:** 2 Months
 
-Worked on Python-based application development and gained practical experience in building web applications and automation solutions.
-
-**Project:** IntelliDesk AI
-
-- Developed a full-stack task management application with an AI assistant.
-- Built the frontend using React.js and JavaScript.
-- Developed backend REST APIs using Python and FastAPI.
-- Used SQLite for application data management.
-- Integrated Ollama and Gemma for AI-powered task analysis.
-- Implemented task creation, updating, management, and AI-based task insights.
-
-**Technologies:** React.js, JavaScript, Python, FastAPI, SQLite, Ollama, Gemma
-
-GitHub:  
-https://github.com/rameshreddyeedula/IntelliDesk-AI
+Gained practical experience in Python development, application development, and software development workflows.
 
 ### VLSI Intern — CODTECH IT Solutions
 
@@ -44,9 +30,15 @@ Gained practical exposure to VLSI concepts, digital design, and hardware-oriente
 
 ### IntelliDesk AI
 
-A full-stack task management application with an AI assistant that helps analyze tasks and provide useful task insights.
+A full-stack task management application with an AI assistant that helps users manage tasks and provides AI-powered task insights.
 
 **Technologies:** React.js, JavaScript, Python, FastAPI, SQLite, Ollama, Gemma
+
+- Task creation and management
+- AI-powered task analysis
+- Task priority and complexity analysis
+- REST API integration
+- Dashboard-based interface
 
 GitHub:  
 https://github.com/rameshreddyeedula/IntelliDesk-AI
